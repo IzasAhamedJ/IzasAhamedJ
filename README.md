@@ -21,4 +21,4 @@ Hi there! 👋 I'm Izas Ahamed, a passionate Front-End Developer with a growing 
 
 I created website for my previous company
 
-www.tarkiz.info
+tarkiz.info
