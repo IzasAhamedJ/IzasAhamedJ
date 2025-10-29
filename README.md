@@ -1,7 +1,7 @@
 # 💫About Me :
 💫 About Me
 
-Hi there! 👋 I'm Izas Ahamed, a passionate Front-End Developer with 1.6 years of experience and a growing interest in full-stack development.
+Hi there! 👋 I'm Izas Ahamed, a passionate Software Developer.
 
 💻 I specialize in Angular and also enjoy building with React.js, Node.js, and Express.js.
 
